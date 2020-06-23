@@ -1,0 +1,29 @@
+@media (max-width: 1200px){
+	.preview{
+		padding-right: 0;
+	}
+	.aboutCompany > .blogPhoto {
+       width: 50vh;
+       height: 25vh;
+       margin-top: 15px;
+    }
+    .aboutCompany > .blogPhoto img{
+    	height: 100%;
+    }
+	.aboutCompany > div:first-child{
+		width: 100%;
+	}
+	.btns a:first-child {
+       width: 100%;
+       margin-right: 0;
+       margin-bottom: 10px;
+    }
+    .btns a:last-child{
+       width: 100%;
+       margin-right: 0;
+    }
+    .advantages > div > div{
+    	width: 100%;
+    	padding-bottom: 15px;
+    }
+}
